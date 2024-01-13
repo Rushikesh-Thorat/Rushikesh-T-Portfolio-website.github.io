@@ -188,26 +188,6 @@ body{
    }
   
   }
-
-  @media (max-width: 1300px) {
-    .headSec img{
-      border-radius: 45% 75% / 55%;
-      margin-right: 10%;
-        margin-top: 50px;
-       float: right;
-       width : 350px;
-
-   }
-   .headText{
-      font-family:"Raleway-bold";
-      margin-top: 70px;
-      margin-left: 90px;
-      font-size: 25px;
-      line-height: 0.5px;
-      padding-top: 40px;
-   
-   }
-  
-  } 
+ 
  
  
