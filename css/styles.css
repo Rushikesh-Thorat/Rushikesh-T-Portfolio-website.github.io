@@ -208,33 +208,6 @@ body{
    
    }
   
-  }
-  @media (max-width: 1100px) {
-    .headSec img{
-      border-radius: 45% 75% / 55%;
-      margin-right: 10%;
-        margin-top: 50px;
-       float: right;
-       width : 300px;
-
-   }
-   .headText{
-      font-family:"Raleway-bold";
-      margin-top: 50px;
-      margin-left: 80px;
-      font-size: 18px;
-       line-height: 0.5px;
-      padding-top: 40px;
-   
-   }
-   .button {
-     padding: 18px 25px;
-    margin-top: 26px;
-    margin-bottom: 30px;
-    margin-left: 10px;
-    font-size: 20px;
-  
-  }
-} 
+  } 
  
  
