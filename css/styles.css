@@ -51,32 +51,7 @@ body{
     fill: #BC2ED9E3;
 }
   
-.button {
-  display: inline-block;
-  text-decoration:none;
-  padding: 20px 30px;
-  margin-top: 30px;
-  margin-bottom: 40px;
-  margin-left: 10px;
-  font-size: 22px;
-  font-weight: bold;
-  background-color: #7c34db; 
-   color: #fff;  
-  border: none;  
-  border-radius: 50px; 
-  cursor: pointer; 
-  transition: background-color 0.3s ease, box-shadow 0.3s ease;
-  box-shadow: 0px 6px 8px rgba(22, 22, 22, 0.1);
- }
- .button a{
-  text-decoration: none;
-  color: black;
- }
-
- .button:hover {
-  background-color: #2980b9;  
-  box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.2);
- }
+ 
 
 
 /* ------------------------------------------------ */
@@ -157,6 +132,41 @@ body{
   fill: #BC2ED9E3;
 }
 
+/* ------------------------------------------------------------------------------- */
+
+.skills {
+  font-family:"Raleway-bold";
+  max-width: 68.75rem;
+  margin: auto;
+  text-align: center;
+  margin-top: 2.5rem;
+}
+
+.skill-header {
+  margin-bottom: 1rem;
+}
+
+.skills-wrapper img {
+  padding: .25rem;
+}
+
+.icon {
+  width: 9.875rem;
+  height: 9.25rem;
+}
+.icon-card {
+  background-color: #fff;
+  border-radius: 11px;
+  box-shadow: 0 3px 10px var(--secondary-shadow);
+  padding: 20px;
+  margin: 10px;
+}
+
+
+/* -------------------------------------------------------------------------- */
+
+ 
+/* -------------------------------------------------------------------------- */
 
   @media (max-width: 1600px) {
     .headSec img{
@@ -358,6 +368,10 @@ body{
     width: 10px;
    }
   
+   .icon {
+    width: 2.875rem;
+    height: 2.25rem;
+  }
   }
 
   @media (max-width: 400px) {
@@ -417,5 +431,10 @@ body{
 .custom-shape-divider-top-1703439083 .shape-fill {
   fill: #BC2ED9E3;
 }
+.icon {
+  width: 1.875rem;
+  height: 1.25rem;
+}
+ 
 
   }
