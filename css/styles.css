@@ -330,47 +330,4 @@ body{
     fill: #BC2ED9E3;
   }
   
-  }
-  @media (max-width: 550px) {
-    .headSec img{
-      border-radius: 45% 75% / 55%;
-      margin-left: 10px;
-        margin-top: 25px;
-        width : 160px;
-
-   }
-   .headText{
-      font-family:"Raleway-bold";
-      margin-top: 5px;
-      margin-left: 20px;
-      font-size: 8px;
-      line-height: 0.5px;
-      padding-top: 40px;
-   
-   }
-   .button {
-     padding: 10px 17px;
-     font-size: 10px;
-
-    margin-top: 11px;
-    margin-bottom: 17px;
-   }
-
-   .fa {
-    padding: 9px;
-     width: 10px;
-     border-radius: 50%;
-    text-align: center;
-    text-decoration: none;
-  }
-  .headText a{
-    font-size: 15px;
-    width: 10px;
-   }
-  
-   .icon {
-    width: 2.875rem;
-    height: 2.25rem;
-  }
-  }
- 
+  } 
